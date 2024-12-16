@@ -3,7 +3,7 @@ package com.jungmin.script;
 public class Properties {
   public static String URL = "jdbc:mysql://127.0.0.1:3306"; // 기본 설정값
   public static String DATABASE_USERNAME = "root"; // 기본값은 root입니다.
-  public static String DATABASE_PASSWORD = "sw8865"; // 본인의 패스워드로 변경해주세요.
+  public static String DATABASE_PASSWORD = "1234"; // 본인의 패스워드로 변경해주세요.
 
   public static String getURL() {
     return URL;
